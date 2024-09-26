@@ -1,1 +1,1 @@
-# Power-Bi-Projects
+Power BI customer profile dashboard that provides an overview of the customer base, including key demographic insights, segmentation, and behavioral data. The dashboard offers valuable metrics and visualizations to help understand customer characteristics, aiding in strategic decision-making for marketing.
