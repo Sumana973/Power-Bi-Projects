@@ -1,1 +1,1 @@
-Power BI customer profile dashboard that provides an overview of the customer base, including key demographic insights, segmentation, and behavioral data. The dashboard offers valuable metrics and visualizations to help understand customer characteristics, aiding in strategic decision-making for marketing.
+Analyzed a dashboard in POWER BI for a toy store in MEXICO. The dashboard offers valuable metrics and visualizations to help understand new location to start  new store and coose a specific types and price range products .
